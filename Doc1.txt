@@ -1,1 +1,3 @@
 Hello, today is Friday
+
+I made changes to master branch
