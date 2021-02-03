@@ -2,4 +2,6 @@ Hello, today is Friday
 
 I have changed this in developer branch
 
+Hello there, how are you today
+
 Not feeling well today?
