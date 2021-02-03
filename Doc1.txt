@@ -1,5 +1,5 @@
 Hello, today is Friday
 
-I have changed this in developer branch
+I have chnaged this in developer branch
 
 Not feeling well today?
